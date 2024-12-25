@@ -1,0 +1,214 @@
+{
+  "node": {
+    "5f7454268b647aa2f7d9d523ce2a5a40b38d564f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-artists.ts%22%2C%5B%22getArtists%22%2C%22getArtist%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/artists/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5C(routes)%5C%5Cartists%5C%5Cpage.tsx%22%2C%5B%22default%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-artists.ts%22%2C%5B%22getArtists%22%2C%22getArtist%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/artists/[artistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-artists.ts%22%2C%5B%22getArtists%22%2C%22getArtist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(routes)/artists/page": "rsc",
+        "app/(routes)/artists/[artistId]/page": "rsc"
+      }
+    },
+    "7922c832a419159a6a9b07f51be966d0af11d85b": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-artists.ts%22%2C%5B%22getArtists%22%2C%22getArtist%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/artists/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5C(routes)%5C%5Cartists%5C%5Cpage.tsx%22%2C%5B%22default%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-artists.ts%22%2C%5B%22getArtists%22%2C%22getArtist%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/artists/[artistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-artists.ts%22%2C%5B%22getArtists%22%2C%22getArtist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/(routes)/artists/page": "rsc",
+        "app/(routes)/artists/[artistId]/page": "rsc"
+      }
+    },
+    "0a69267f582b4043455b4d56186e2f16eb1c30c3": {
+      "workers": {
+        "app/(routes)/tracks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-local-music.ts%22%2C%5B%22getAlbums%22%2C%22getAlbum%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/albums/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-local-music.ts%22%2C%5B%22getAlbums%22%2C%22getAlbum%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/album/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-local-music.ts%22%2C%5B%22getAlbums%22%2C%22getAlbum%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "rsc",
+        "app/(routes)/albums/page": "rsc",
+        "app/(routes)/album/[id]/page": "rsc"
+      }
+    },
+    "1ae1fead98fef7b3eeff87598a0933622604555b": {
+      "workers": {
+        "app/(routes)/tracks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-local-music.ts%22%2C%5B%22getAlbums%22%2C%22getAlbum%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/albums/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-local-music.ts%22%2C%5B%22getAlbums%22%2C%22getAlbum%22%5D%5D%5D&__client_imported__=!",
+        "app/(routes)/album/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-local-music.ts%22%2C%5B%22getAlbums%22%2C%22getAlbum%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "rsc",
+        "app/(routes)/albums/page": "rsc",
+        "app/(routes)/album/[id]/page": "rsc"
+      }
+    },
+    "1fe9a5652899ad254675fc44c1db74332bd07588": {
+      "workers": {
+        "app/(routes)/tracks/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/album/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/artists/[artistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "action-browser",
+        "app/(routes)/album/[id]/page": "action-browser",
+        "app/(routes)/artists/[artistId]/page": "action-browser",
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "rsc"
+      }
+    },
+    "5873be666556febe8e379730a27295db575ff9b8": {
+      "workers": {
+        "app/(routes)/tracks/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/album/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/artists/[artistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "action-browser",
+        "app/(routes)/album/[id]/page": "action-browser",
+        "app/(routes)/artists/[artistId]/page": "action-browser",
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "rsc"
+      }
+    },
+    "787114fde07966d42e4b866c6d01a53d7d7d70ef": {
+      "workers": {
+        "app/(routes)/tracks/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/album/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/artists/[artistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "action-browser",
+        "app/(routes)/album/[id]/page": "action-browser",
+        "app/(routes)/artists/[artistId]/page": "action-browser",
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "rsc"
+      }
+    },
+    "9ae9a598b38cbd26f4c0768f75fc205f723f345d": {
+      "workers": {
+        "app/(routes)/tracks/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/album/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/artists/[artistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "action-browser",
+        "app/(routes)/album/[id]/page": "action-browser",
+        "app/(routes)/artists/[artistId]/page": "action-browser",
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "rsc"
+      }
+    },
+    "ae00e62522ac4c47b3d823dead2e8049e5eb2987": {
+      "workers": {
+        "app/(routes)/tracks/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/album/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/artists/[artistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "action-browser",
+        "app/(routes)/album/[id]/page": "action-browser",
+        "app/(routes)/artists/[artistId]/page": "action-browser",
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "rsc"
+      }
+    },
+    "b6d7fa0536ca6412eb67e9756456325935f5705a": {
+      "workers": {
+        "app/(routes)/tracks/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/album/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/artists/[artistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "action-browser",
+        "app/(routes)/album/[id]/page": "action-browser",
+        "app/(routes)/artists/[artistId]/page": "action-browser",
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "rsc"
+      }
+    },
+    "cdadb49f1a49433a71aa8df42a22e2aebc505d03": {
+      "workers": {
+        "app/(routes)/tracks/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/album/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/artists/[artistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/tracks/page": "action-browser",
+        "app/(routes)/album/[id]/page": "action-browser",
+        "app/(routes)/artists/[artistId]/page": "action-browser",
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "rsc"
+      }
+    },
+    "73bec216425cb21ab14a9fb97d11bbb6f49b6436": {
+      "workers": {
+        "app/(routes)/artists/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5C(routes)%5C%5Cartists%5C%5Cpage.tsx%22%2C%5B%22default%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-artists.ts%22%2C%5B%22getArtists%22%2C%22getArtist%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(routes)/artists/page": "rsc"
+      }
+    },
+    "502e27d426133b224db2151a3158886ecaa606f9": {
+      "workers": {
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "action-browser"
+      }
+    },
+    "7ed524a40a63fa9f28a901a676b2c5d78d062ac0": {
+      "workers": {
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "action-browser"
+      }
+    },
+    "949ba625a83a2adb6f1a3161a309e9e06ab47cb0": {
+      "workers": {
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "action-browser"
+      }
+    },
+    "c6bed5c2daef40529c95f47d0f9579d56deffa3d": {
+      "workers": {
+        "app/(routes)/playlists/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cget-playlists.ts%22%2C%5B%22createPlaylist%22%2C%22getPlaylist%22%2C%22removeTrackFromPlaylist%22%2C%22deletePlaylist%22%2C%22getPlaylists%22%2C%22addTrackToPlaylist%22%2C%22updatePlaylist%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!",
+        "app/(routes)/playlists/[playlistId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Carnob%5C%5CDownloads%5C%5Cproject-bolt-bolt-nextjs-shadcn-vk741gfh%20(1)%5C%5Cmelody%5C%5Capp%5C%5Cactions%5C%5Cplaylist-actions.ts%22%2C%5B%22addSongToPlaylist%22%2C%22deletePlaylist%22%2C%22createPlaylist%22%2C%22updatePlaylist%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(routes)/playlists/page": "action-browser",
+        "app/(routes)/playlists/[playlistId]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "O0lhZLSRREGZAthfIciUq0Q+H0IIvMbYSjBaf9g5ZZs="
+}

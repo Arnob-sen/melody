@@ -1,0 +1,40 @@
+{
+  "id": "d8d86346-3c92-4dae-9e4d-e49b3a736520",
+  "name": "new one",
+  "description": "for test",
+  "image": "/Music/playlists/d8d86346-3c92-4dae-9e4d-e49b3a736520/cover.jpg",
+  "tracks": [
+    {
+      "id": "amar_ekla_akash_thomke_geche___আমার_একলা_আকাশ_থমকে_গেছে___Shreya_Ghoshal___Music",
+      "title": "amar_ekla_akash_thomke_geche___আমার_একলা_আকাশ_থমকে_গেছে___Shreya_Ghoshal___Music",
+      "path": "/Music/album1/amar_ekla_akash_thomke_geche___আমার_একলা_আকাশ_থমকে_গেছে___Shreya_Ghoshal___Music.mp3",
+      "artist": "Luna Eclipse",
+      "image": "/Music/album1/cover.jpg",
+      "duration": "NaN:NaN"
+    },
+    {
+      "id": "Ladki_Badi_Anjani_Hai_Full_Video_-_Kuch_Kuch_Hota_Hai_Shah_Rukh_Khan,Kajol_Kumar",
+      "title": "_Kuch_Kuch_Hota_Hai_Shah_Rukh_Khan,Kajol_Kumar",
+      "path": "/Music/album7/Ladki_Badi_Anjani_Hai_Full_Video_-_Kuch_Kuch_Hota_Hai_Shah_Rukh_Khan,Kajol_Kumar.mp3",
+      "artist": "Sahara Soul",
+      "image": "/Music/album7/cover.jpg",
+      "duration": "NaN:NaN"
+    },
+    {
+      "id": "track3",
+      "title": "y2mate.com Adele  Skyfall Lyrics Copy Copy Copy (2) Copy",
+      "path": "/Music/artist/Tanvir Evan/y2mate.com - Adele  Skyfall Lyrics - Copy - Copy - Copy (2) - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Tanvir Evan",
+      "image": "/Music/artist/Tanvir Evan/cover.jpg"
+    },
+    {
+      "id": "track4",
+      "title": "y2mate.com Arctic Monkeys  I Wanna Be Yours Lyrics Copy (7) Copy Copy",
+      "path": "/Music/artist/Arman malik/y2mate.com - Arctic Monkeys  I Wanna Be Yours Lyrics - Copy (7) - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Armaan Malik",
+      "image": "/Music/artist/Arman malik/cover.jpg"
+    }
+  ]
+}

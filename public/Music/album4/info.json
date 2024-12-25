@@ -1,0 +1,30 @@
+{
+  "title": "Ocean Depths",
+  "artist": "Deep Blue",
+  "year": "2023",
+  "genre": "Ambient",
+  "description": "An immersive journey into the depths of the ocean",
+  "tracks": [
+    {
+      "id": "track1",
+      "title": "Deep Currents",
+      "artist": "Deep Blue",
+      "path": "/Music/album4/tracks/track1.mp3",
+      "duration": "6:30"
+    },
+    {
+      "id": "track2",
+      "title": "Coral Dreams",
+      "artist": "Deep Blue",
+      "path": "/Music/album4/tracks/track2.mp3",
+      "duration": "5:45"
+    },
+    {
+      "id": "track3",
+      "title": "Abyssal Light",
+      "artist": "Deep Blue",
+      "path": "/Music/album4/tracks/track3.mp3",
+      "duration": "7:15"
+    }
+  ]
+}

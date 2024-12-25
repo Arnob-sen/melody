@@ -1,0 +1,42 @@
+{
+  "name": "Anup jain",
+  "fullName": "Anup jain",
+  "bio": "Renowned Indian singer and musician known for his devotional music and ghazals",
+  "genres": ["Bhajan", "Ghazal", "Classical"],
+  "country": "India",
+  "image": "/Music/anup jain/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "Aisi Lagi Lagan",
+      "path": "/Music/anup jain/tracks/aisi-lagi-lagan.mp3",
+      "duration": "5:30"
+    },
+    {
+      "id": "track2",
+      "title": "Rang De Chunariya",
+      "path": "/Music/anup jain/tracks/rang-de-chunariya.mp3",
+      "duration": "6:15"
+    },
+    {
+      "id": "track3",
+      "title": "Jag Me Sundar Hai Do Naam",
+      "path": "/Music/anup jain/tracks/jag-me-sundar.mp3",
+      "duration": "7:20"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Bhajan Sandhya",
+      "year": "2010",
+      "coverImage": "/Music/anup jain/albums/bhajan-sandhya.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Devotional Classics",
+      "year": "2015",
+      "coverImage": "/Music/anup jain/albums/devotional-classics.jpg"
+    }
+  ]
+}

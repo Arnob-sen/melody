@@ -1,0 +1,42 @@
+{
+  "name": "Arnob",
+  "fullName": "Shayan Chowdhury Arnob",
+  "bio": "Renowned Bangladeshi singer-songwriter, composer and music producer known for his fusion of folk and contemporary music",
+  "genres": ["Folk", "Fusion", "Contemporary"],
+  "country": "Bangladesh",
+  "image": "/Music/Arnob/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "She Je Boshe Ache",
+      "path": "/Music/Arnob/tracks/she-je-boshe-ache.mp3",
+      "duration": "5:15"
+    },
+    {
+      "id": "track2",
+      "title": "Tomar Jonno",
+      "path": "/Music/Arnob/tracks/tomar-jonno.mp3",
+      "duration": "4:45"
+    },
+    {
+      "id": "track3",
+      "title": "Hariye Giyechi",
+      "path": "/Music/Arnob/tracks/hariye-giyechi.mp3",
+      "duration": "6:20"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Hok Kolorob",
+      "year": "2005",
+      "coverImage": "/Music/Arnob/albums/hok-kolorob.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Doob",
+      "year": "2007",
+      "coverImage": "/Music/Arnob/albums/doob.jpg"
+    }
+  ]
+}

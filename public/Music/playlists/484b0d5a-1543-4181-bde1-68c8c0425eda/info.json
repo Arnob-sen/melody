@@ -1,0 +1,43 @@
+{
+  "id": "484b0d5a-1543-4181-bde1-68c8c0425eda",
+  "name": "sadss",
+  "description": "ssss",
+  "image": "/Music/playlists/484b0d5a-1543-4181-bde1-68c8c0425eda/cover.jpg",
+  "tracks": [
+    {
+      "id": "track3",
+      "title": "y2mate.com Adele  Skyfall Lyrics Copy Copy Copy (2) Copy",
+      "path": "/Music/artist/Tanvir Evan/y2mate.com - Adele  Skyfall Lyrics - Copy - Copy - Copy (2) - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Tanvir Evan",
+      "image": "/Music/artist/Tanvir Evan/cover.jpg"
+    },
+    {
+      "id": "track20",
+      "title": "y2mate.com Baarishein Lyrics  Anuv Jain Copy (6) Copy (2) Copy Copy",
+      "path": "/Music/artist/Arman malik/y2mate.com - Baarishein Lyrics  Anuv Jain - Copy (6) - Copy (2) - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Armaan Malik",
+      "image": "/Music/artist/Arman malik/cover.jpg"
+    },
+    {
+      "id": "Akon_-_Lonely",
+      "title": "_Lonely",
+      "artist": "Luna Eclipse",
+      "album": "Midnight Memories",
+      "duration": 0,
+      "path": "/Music/album1/Akon_-_Lonely.mp3",
+      "albumTitle": "Midnight Memories",
+      "albumCover": "/Music/album1/cover.jpg",
+      "image": "/Music/album1/cover.jpg"
+    },
+    {
+      "id": "track4",
+      "title": "y2mate.com Arctic Monkeys  I Wanna Be Yours Lyrics Copy (7) Copy Copy",
+      "path": "/Music/artist/Arman malik/y2mate.com - Arctic Monkeys  I Wanna Be Yours Lyrics - Copy (7) - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Armaan Malik",
+      "image": "/Music/artist/Arman malik/cover.jpg"
+    }
+  ]
+}

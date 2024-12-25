@@ -1,0 +1,16 @@
+{
+  "id": "b12f2e3e-a519-4643-9aaf-1131c78ca40b",
+  "name": "darshab",
+  "description": "sss",
+  "image": "/Music/playlists/b12f2e3e-a519-4643-9aaf-1131c78ca40b/cover.jpg",
+  "tracks": [
+    {
+      "id": "track3",
+      "title": "y2mate.com Arctic Monkeys  I Wanna Be Yours Lyrics Copy (7) Copy Copy",
+      "path": "/Music/artist/Arijit singh/y2mate.com - Arctic Monkeys  I Wanna Be Yours Lyrics - Copy (7) - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Arijit Singh",
+      "image": "/Music/artist/Arijit singh/cover.jpg"
+    }
+  ]
+}

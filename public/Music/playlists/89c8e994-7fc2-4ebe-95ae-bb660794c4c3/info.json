@@ -1,0 +1,24 @@
+{
+  "id": "89c8e994-7fc2-4ebe-95ae-bb660794c4c3",
+  "name": "arnobs",
+  "description": "sss",
+  "image": "/Music/playlists/89c8e994-7fc2-4ebe-95ae-bb660794c4c3/cover.jpg",
+  "tracks": [
+    {
+      "id": "2441139_Bela_Bose_With_Lyrics___2441139_বেলা_বোস___Anjan_Dutta___Shunte_Ki_Chao",
+      "title": "2441139_Bela_Bose_With_Lyrics___2441139_বেলা_বোস___Anjan_Dutta___Shunte_Ki_Chao",
+      "path": "/Music/album1/2441139_Bela_Bose_With_Lyrics___2441139_বেলা_বোস___Anjan_Dutta___Shunte_Ki_Chao.mp3",
+      "artist": "Luna Eclipse",
+      "image": "/Music/album1/cover.jpg",
+      "duration": "NaN:NaN"
+    },
+    {
+      "id": "Lenka_-_Everything_At_Once",
+      "title": "_Everything_At_Once",
+      "path": "/Music/album7/Lenka_-_Everything_At_Once.mp3",
+      "artist": "Sahara Soul",
+      "image": "/Music/album7/cover.jpg",
+      "duration": "00:00"
+    }
+  ]
+}

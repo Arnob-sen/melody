@@ -1,0 +1,24 @@
+{
+  "id": "37967a26-c3f7-45a7-86c4-fd1062582831",
+  "name": "owwwwwww",
+  "description": "www",
+  "image": "/images/playlist-default.png",
+  "tracks": [
+    {
+      "id": "Tabaah_Ho_Gaye_(LYRICS)_-_Shreya_Ghoshal___Kalank___Pritam,_Amitabh_Bhattacharya",
+      "title": "_Shreya_Ghoshal___Kalank___Pritam,_Amitabh_Bhattacharya",
+      "path": "/Music/album10/Tabaah_Ho_Gaye_(LYRICS)_-_Shreya_Ghoshal___Kalank___Pritam,_Amitabh_Bhattacharya.mp3",
+      "artist": "Cosmic Wave",
+      "image": "/Music/album10/cover.jpg",
+      "duration": "NaN:NaN"
+    },
+    {
+      "id": "track3",
+      "title": "y2mate.com Arctic Monkeys  I Wanna Be Yours Lyrics Copy (7) Copy Copy",
+      "path": "/Music/artist/Arijit singh/y2mate.com - Arctic Monkeys  I Wanna Be Yours Lyrics - Copy (7) - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Arijit Singh",
+      "image": "/Music/artist/Arijit singh/cover.jpg"
+    }
+  ]
+}

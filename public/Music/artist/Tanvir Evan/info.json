@@ -1,0 +1,42 @@
+{
+  "name": "Tanvir Evan",
+  "fullName": "Tanvir Evan",
+  "bio": "Talented Bangladeshi singer-songwriter known for his unique voice and contemporary folk fusion style",
+  "genres": ["Folk", "Contemporary", "Fusion"],
+  "country": "Bangladesh",
+  "image": "/Music/Tanvir Evan/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "Shei Tumi",
+      "path": "/Music/Tanvir Evan/tracks/shei-tumi.mp3",
+      "duration": "4:35"
+    },
+    {
+      "id": "track2",
+      "title": "Bhromor",
+      "path": "/Music/Tanvir Evan/tracks/bhromor.mp3",
+      "duration": "5:15"
+    },
+    {
+      "id": "track3",
+      "title": "Amar Shonar",
+      "path": "/Music/Tanvir Evan/tracks/amar-shonar.mp3",
+      "duration": "4:45"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Folk Tales",
+      "year": "2018",
+      "coverImage": "/Music/Tanvir Evan/albums/folk-tales.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Fusion Folk",
+      "year": "2020",
+      "coverImage": "/Music/Tanvir Evan/albums/fusion-folk.jpg"
+    }
+  ]
+}

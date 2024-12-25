@@ -1,0 +1,42 @@
+{
+  "name": "Arijit Singh",
+  "fullName": "Arijit Singh",
+  "bio": "One of India's most versatile and popular playback singers, known for his soulful voice and emotional renditions",
+  "genres": ["Bollywood", "Pop", "Classical"],
+  "country": "India",
+  "image": "/Music/Arijit singh/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "Tum Hi Ho",
+      "path": "/Music/Arijit singh/tracks/tum-hi-ho.mp3",
+      "duration": "4:22"
+    },
+    {
+      "id": "track2",
+      "title": "Channa Mereya",
+      "path": "/Music/Arijit singh/tracks/channa-mereya.mp3",
+      "duration": "4:49"
+    },
+    {
+      "id": "track3",
+      "title": "Ae Dil Hai Mushkil",
+      "path": "/Music/Arijit singh/tracks/ae-dil-hai-mushkil.mp3",
+      "duration": "4:29"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Aashiqui 2",
+      "year": "2013",
+      "coverImage": "/Music/Arijit singh/albums/aashiqui-2.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Ae Dil Hai Mushkil",
+      "year": "2016",
+      "coverImage": "/Music/Arijit singh/albums/adhm.jpg"
+    }
+  ]
+}

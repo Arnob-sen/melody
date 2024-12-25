@@ -1,0 +1,42 @@
+{
+  "name": "Armaan Malik",
+  "fullName": "Armaan Malik",
+  "bio": "Popular Indian singer known for his melodious voice and versatile singing style in multiple languages",
+  "genres": ["Bollywood", "Pop", "Romantic"],
+  "country": "India",
+  "image": "/Music/Arman malik/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "Bol Do Na Zara",
+      "path": "/Music/Arman malik/tracks/bol-do-na-zara.mp3",
+      "duration": "4:12"
+    },
+    {
+      "id": "track2",
+      "title": "Main Hoon Hero Tera",
+      "path": "/Music/Arman malik/tracks/main-hoon-hero-tera.mp3",
+      "duration": "4:35"
+    },
+    {
+      "id": "track3",
+      "title": "Wajah Tum Ho",
+      "path": "/Music/Arman malik/tracks/wajah-tum-ho.mp3",
+      "duration": "5:10"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Hero",
+      "year": "2015",
+      "coverImage": "/Music/Arman malik/albums/hero.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Azhar",
+      "year": "2016",
+      "coverImage": "/Music/Arman malik/albums/azhar.jpg"
+    }
+  ]
+}

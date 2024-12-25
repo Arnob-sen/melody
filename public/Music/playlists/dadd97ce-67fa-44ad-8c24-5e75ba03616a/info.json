@@ -1,0 +1,16 @@
+{
+  "id": "dadd97ce-67fa-44ad-8c24-5e75ba03616a",
+  "name": "okaaaaaaaaaaaa",
+  "description": "ssssss",
+  "image": "/Music/playlists/dadd97ce-67fa-44ad-8c24-5e75ba03616a/cover.jpg",
+  "tracks": [
+    {
+      "id": "Amar_Dehokhan___Odd_Signature___Cover_by_Sahil_Sanjan",
+      "title": "Amar_Dehokhan___Odd_Signature___Cover_by_Sahil_Sanjan",
+      "path": "/Music/album1/Amar_Dehokhan___Odd_Signature___Cover_by_Sahil_Sanjan.mp3",
+      "artist": "Luna Eclipse",
+      "image": "/Music/album1/cover.jpg",
+      "duration": "NaN:NaN"
+    }
+  ]
+}

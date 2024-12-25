@@ -1,0 +1,32 @@
+{
+  "id": "d2b5c606-f896-407a-b6f6-003d37e9e7c6",
+  "name": "aaaaa",
+  "description": "aaaaaa",
+  "image": "/Music/playlists/d2b5c606-f896-407a-b6f6-003d37e9e7c6/cover.jpg",
+  "tracks": [
+    {
+      "id": "Akon_-_Lonely",
+      "title": "_Lonely",
+      "path": "/Music/album1/Akon_-_Lonely.mp3",
+      "artist": "Luna Eclipse",
+      "image": "/Music/album1/cover.jpg",
+      "duration": "00:00"
+    },
+    {
+      "id": "Notun_Premer_Gaan_(নতুন_প্রেমের_গান)___Ballabhpurer_Roopkotha___Anirban,_Debraj,",
+      "title": "Notun_Premer_Gaan_(নতুন_প্রেমের_গান)___Ballabhpurer_Roopkotha___Anirban,_Debraj,",
+      "path": "/Music/album8/Notun_Premer_Gaan_(নতুন_প্রেমের_গান)___Ballabhpurer_Roopkotha___Anirban,_Debraj,.mp3",
+      "artist": "Deep Blue",
+      "image": "/Music/album8/cover.jpg",
+      "duration": "00:00"
+    },
+    {
+      "id": "track3",
+      "title": "y2mate.com Anuv Jain  ALAG AASMAAN a song on the ukulele Copy (2) Copy (2) Copy Copy Copy Copy Copy",
+      "path": "/Music/artist/anup jain/y2mate.com - Anuv Jain  ALAG AASMAAN a song on the ukulele - Copy (2) - Copy (2) - Copy - Copy - Copy - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Anup jain",
+      "image": "/Music/artist/anup jain/cover.jpg"
+    }
+  ]
+}

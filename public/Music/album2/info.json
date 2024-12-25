@@ -1,0 +1,30 @@
+{
+  "title": "Electric Dreams",
+  "artist": "Neon Pulse",
+  "year": "2023",
+  "genre": "Synthwave",
+  "description": "A retro-futuristic journey through neon-lit cityscapes",
+  "tracks": [
+    {
+      "id": "track1",
+      "title": "Neon Nights",
+      "artist": "Neon Pulse",
+      "path": "/Music/album2/tracks/track1.mp3",
+      "duration": "4:15"
+    },
+    {
+      "id": "track2",
+      "title": "Digital Rain",
+      "artist": "Neon Pulse",
+      "path": "/Music/album2/tracks/track2.mp3",
+      "duration": "3:58"
+    },
+    {
+      "id": "track3",
+      "title": "Cyber Dawn",
+      "artist": "Neon Pulse",
+      "path": "/Music/album2/tracks/track3.mp3",
+      "duration": "4:30"
+    }
+  ]
+}

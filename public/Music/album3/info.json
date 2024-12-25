@@ -1,0 +1,30 @@
+{
+  "title": "Desert Winds",
+  "artist": "Sahara Soul",
+  "year": "2023",
+  "genre": "World Fusion",
+  "description": "A mesmerizing blend of traditional and modern desert sounds",
+  "tracks": [
+    {
+      "id": "track1",
+      "title": "Oasis Dreams",
+      "artist": "Sahara Soul",
+      "path": "/Music/album3/tracks/track1.mp3",
+      "duration": "5:20"
+    },
+    {
+      "id": "track2",
+      "title": "Caravan Song",
+      "artist": "Sahara Soul",
+      "path": "/Music/album3/tracks/track2.mp3",
+      "duration": "4:45"
+    },
+    {
+      "id": "track3",
+      "title": "Desert Dawn",
+      "artist": "Sahara Soul",
+      "path": "/Music/album3/tracks/track3.mp3",
+      "duration": "6:10"
+    }
+  ]
+}

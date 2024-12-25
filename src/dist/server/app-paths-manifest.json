@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(routes)/playlists/page": "app/(routes)/playlists/page.js",
+  "/(routes)/artists/[artistId]/page": "app/(routes)/artists/[artistId]/page.js",
+  "/(routes)/playlists/[playlistId]/page": "app/(routes)/playlists/[playlistId]/page.js",
+  "/(routes)/favourites/page": "app/(routes)/favourites/page.js",
+  "/page": "app/page.js"
+}

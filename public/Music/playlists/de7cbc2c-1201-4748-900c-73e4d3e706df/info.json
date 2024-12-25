@@ -1,0 +1,32 @@
+{
+  "id": "de7cbc2c-1201-4748-900c-73e4d3e706df",
+  "name": "ffff",
+  "description": "ffff",
+  "image": "/Music/playlists/de7cbc2c-1201-4748-900c-73e4d3e706df/cover.jpg",
+  "tracks": [
+    {
+      "id": "track4",
+      "title": "y2mate.com Arctic Monkeys  I Wanna Be Yours Lyrics Copy (7) Copy Copy",
+      "path": "/Music/artist/Arman malik/y2mate.com - Arctic Monkeys  I Wanna Be Yours Lyrics - Copy (7) - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Armaan Malik",
+      "image": "/Music/artist/Arman malik/cover.jpg"
+    },
+    {
+      "id": "AAMAY_DEKONA_-_TAPOSH_FEAT._ADITI_SINGH_SHARMA___OMZ_WIND_OF_CHANGE_[_S_05_]",
+      "title": "_TAPOSH_FEAT._ADITI_SINGH_SHARMA___OMZ_WIND_OF_CHANGE_[_S_05_]",
+      "path": "/Music/album1/AAMAY_DEKONA_-_TAPOSH_FEAT._ADITI_SINGH_SHARMA___OMZ_WIND_OF_CHANGE_[_S_05_].mp3",
+      "artist": "Luna Eclipse",
+      "image": "/Music/album1/cover.jpg",
+      "duration": "NaN:NaN"
+    },
+    {
+      "id": "track14",
+      "title": "y2mate.com Adele  Skyfall Lyrics Copy Copy Copy Copy",
+      "path": "/Music/artist/Tanvir Evan/y2mate.com - Adele  Skyfall Lyrics - Copy - Copy - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Tanvir Evan",
+      "image": "/Music/artist/Tanvir Evan/cover.jpg"
+    }
+  ]
+}

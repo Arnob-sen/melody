@@ -1,0 +1,42 @@
+{
+  "name": "Atif Aslam",
+  "fullName": "Muhammad Atif Aslam",
+  "bio": "Internationally acclaimed Pakistani singer, songwriter and actor known for his powerful vocals and unique style",
+  "genres": ["Pop", "Rock", "Sufi"],
+  "country": "Pakistan",
+  "image": "/Music/Atif Aslam/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "Doorie",
+      "path": "/Music/Atif Aslam/tracks/doorie.mp3",
+      "duration": "5:30"
+    },
+    {
+      "id": "track2",
+      "title": "Aadat",
+      "path": "/Music/Atif Aslam/tracks/aadat.mp3",
+      "duration": "5:15"
+    },
+    {
+      "id": "track3",
+      "title": "Woh Lamhe",
+      "path": "/Music/Atif Aslam/tracks/woh-lamhe.mp3",
+      "duration": "4:55"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Doorie",
+      "year": "2006",
+      "coverImage": "/Music/Atif Aslam/albums/doorie.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Meri Kahani",
+      "year": "2008",
+      "coverImage": "/Music/Atif Aslam/albums/meri-kahani.jpg"
+    }
+  ]
+}

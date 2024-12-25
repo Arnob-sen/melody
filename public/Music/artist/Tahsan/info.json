@@ -1,0 +1,42 @@
+{
+  "name": "Tahsan",
+  "fullName": "Tahsan Rahman Khan",
+  "bio": "Renowned Bangladeshi singer-songwriter, actor and composer known for his soulful melodies and emotional lyrics",
+  "genres": ["Pop", "Rock", "Contemporary"],
+  "country": "Bangladesh",
+  "image": "/Music/Tahsan/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "Irsha",
+      "path": "/Music/Tahsan/tracks/irsha.mp3",
+      "duration": "4:45"
+    },
+    {
+      "id": "track2",
+      "title": "Bhul",
+      "path": "/Music/Tahsan/tracks/bhul.mp3",
+      "duration": "5:20"
+    },
+    {
+      "id": "track3",
+      "title": "Prem Tumi",
+      "path": "/Music/Tahsan/tracks/prem-tumi.mp3",
+      "duration": "4:55"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Uddessho Nei",
+      "year": "2012",
+      "coverImage": "/Music/Tahsan/albums/uddessho-nei.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Prem Tumi",
+      "year": "2015",
+      "coverImage": "/Music/Tahsan/albums/prem-tumi.jpg"
+    }
+  ]
+}

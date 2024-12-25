@@ -1,0 +1,30 @@
+{
+  "title": "Midnight Memories",
+  "artist": "Luna Eclipse",
+  "year": "2023",
+  "genre": "Dream Pop",
+  "description": "A dreamy collection of atmospheric soundscapes",
+  "tracks": [
+    {
+      "id": "track1",
+      "title": "Starlight Dreams",
+      "artist": "Luna Eclipse",
+      "path": "/Music/album1/tracks/track1.mp3",
+      "duration": "3:45"
+    },
+    {
+      "id": "track2",
+      "title": "Moonlit Path",
+      "artist": "Luna Eclipse",
+      "path": "/Music/album1/tracks/track2.mp3",
+      "duration": "4:12"
+    },
+    {
+      "id": "track3",
+      "title": "Cosmic Dance",
+      "artist": "Luna Eclipse",
+      "path": "/Music/album1/tracks/track3.mp3",
+      "duration": "3:58"
+    }
+  ]
+}

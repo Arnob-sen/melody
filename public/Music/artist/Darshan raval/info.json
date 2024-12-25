@@ -1,0 +1,42 @@
+{
+  "name": "Darshan Raval",
+  "fullName": "Darshan Raval",
+  "bio": "Popular Indian singer, songwriter and composer known for his romantic songs and energetic performances",
+  "genres": ["Pop", "Romantic", "Indie"],
+  "country": "India",
+  "image": "/Music/Darshan raval/cover.jpg",
+  "popularTracks": [
+    {
+      "id": "track1",
+      "title": "Tera Zikr",
+      "path": "/Music/Darshan raval/tracks/tera-zikr.mp3",
+      "duration": "4:25"
+    },
+    {
+      "id": "track2",
+      "title": "Chogada",
+      "path": "/Music/Darshan raval/tracks/chogada.mp3",
+      "duration": "3:55"
+    },
+    {
+      "id": "track3",
+      "title": "Ek Ladki Ko Dekha Toh",
+      "path": "/Music/Darshan raval/tracks/ek-ladki.mp3",
+      "duration": "4:15"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "title": "Judaiyaan",
+      "year": "2020",
+      "coverImage": "/Music/Darshan raval/albums/judaiyaan.jpg"
+    },
+    {
+      "id": "album2",
+      "title": "Love Songs",
+      "year": "2019",
+      "coverImage": "/Music/Darshan raval/albums/love-songs.jpg"
+    }
+  ]
+}

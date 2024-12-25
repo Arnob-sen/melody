@@ -1,0 +1,16 @@
+{
+  "id": "3ba8b33d-1352-49fc-aba2-c909d844ce94",
+  "name": "xyz",
+  "description": "ksks",
+  "image": "/Music/playlists/3ba8b33d-1352-49fc-aba2-c909d844ce94/cover.jpg",
+  "tracks": [
+    {
+      "id": "track3",
+      "title": "y2mate.com Anuv Jain  ALAG AASMAAN a song on the ukulele Copy (2) Copy (2) Copy Copy Copy Copy Copy",
+      "path": "/Music/artist/anup jain/y2mate.com - Anuv Jain  ALAG AASMAAN a song on the ukulele - Copy (2) - Copy (2) - Copy - Copy - Copy - Copy - Copy.mp3",
+      "duration": "3:30",
+      "artist": "Anup jain",
+      "image": "/Music/artist/anup jain/cover.jpg"
+    }
+  ]
+}
